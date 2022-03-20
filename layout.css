@@ -1,0 +1,28 @@
+body {
+    width: 90%;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#header {
+    width: 100%;
+    float: left;
+}
+
+#nav {
+    background-color: aliceblue;
+    width: 20%;
+    height: 100%;
+    float: left;
+    margin-right: 10px;
+
+}
+
+#content {
+    background-color: aliceblue;
+    width: 79%;
+    height: 100%;
+    float: left;
+}
+
